@@ -1,0 +1,30 @@
+# Core Framework
+streamlit
+
+# Data Processing
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Visualization
+plotly
+matplotlib
+
+# PDF Generation
+fpdf
+
+# Database (built-in, no installation needed)
+# sqlite3
+
+# Additional Utilities
+python-dateutil
+pytz
+reportlab
+openpyxl
+fastapi
+uvicorn
+requests
+pydantic
